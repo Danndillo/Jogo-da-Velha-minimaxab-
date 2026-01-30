@@ -10,10 +10,10 @@ O programa foi implementado na linguagem C e consiste em um jogo da velha entre 
 Para o funcionamento do agente computacional foi usado o algoritmo **Minimax**, otimizado por **Alpha-Beta Pruning** e controle de **profundidade**, garantindo decisões ótimas em tempo viável.
 ## Autores
 
-- Daniella Honório Rosa ([@octokatherine](https://www.github.com/octokatherine))
-- Danielly N. dos S. Martins ([@octokatherine](https://www.github.com/octokatherine))
-- Danillo de Paula Carvalho ([@octokatherine](https://www.github.com/octokatherine))
-- Elis Vieira de Almeida ([@octokatherine](https://www.github.com/octokatherine))
+- Daniella Honório Rosa 
+- Danielly N. dos S. Martins 
+- Danillo de Paula Carvalho 
+- Elis Vieira de Almeida 
 ## Funcionamento do Autômato
 ## Rodando localmente
 
@@ -27,18 +27,17 @@ Abra o Prompt de Comando, entre no diretório do projeto:
   cd ...\jogodavelha
 ```
 
-Execute o arquivo já compilado:
+Gere um novo executavel:
+
+```bash
+  gcc main.c jogatina.c -o jogodavelha.exe
+```
+
+Execute o arquivo compilado:
 
 ```bash
   jogodavelha.exe
 ```
-
-Em caso de erro, gere um novo executavel:
-
-```bash
-  gcc main.c jogatina.c -o novoExecutavel.exe
-```
-
 
 ### Execução no Linux/macOS
 
