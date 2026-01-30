@@ -14,7 +14,7 @@ Para o funcionamento do agente computacional foi usado o algoritmo **Minimax**, 
 - Danielly N. dos S. Martins 
 - Danillo de Paula Carvalho 
 - Elis Vieira de Almeida 
-## Funcionamento do Autômato
+## Funcionamento
 
 O agente computacional do jogo da velha foi desenvolvido com base no algoritmo **Minimax**, uma técnica clássica de tomada de decisão em jogos determinísticos, de soma zero e com informação perfeita, como é o caso do jogo da velha.
 
